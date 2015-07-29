@@ -1,9 +1,9 @@
-package tr.com.t2.labs.tdd.sample9;
+package tr.com.t2.labs.tdd.sample8;
 
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.RuleChain;
-import tr.com.t2.labs.tdd.sample8.MyCustomRule;
+import tr.com.t2.labs.tdd.sample7.MyCustomRule;
 
 /**
  * Created by mertcaliskan

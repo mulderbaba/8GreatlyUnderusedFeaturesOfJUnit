@@ -1,4 +1,4 @@
-package tr.com.t2.labs.tdd.sample8;
+package tr.com.t2.labs.tdd.sample7;
 
 import org.junit.rules.TestRule;
 import org.junit.runner.Description;
