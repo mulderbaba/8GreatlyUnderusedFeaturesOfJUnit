@@ -1,4 +1,0 @@
-# 8 Greatly Underused Features of JUnit
-Java Magazine Article Examples that demoes 8 Greatly Underused Features of JUnit based on @Rule architecture, such as TemporaryFolder, Error Collector and etc. Categories and Parameterized test running is also exampled.
-<br/><br/>
-When it comes to unit testing, we can say that JUnit is the most popular test framework among the Java developers. Despite the headline on the official Junit website http://junit.org/ stating that it’s a simple framework, there is a good deal of extensive functionality bundled within the framework. Unfortunately, most of us use a familiar set of features and so duplicate available goodies by reinventing them. With this article, I dig into nine convenient but under-used features of JUnit that should ease writing test code—including creating and automatically cleaning up temporary directories, running all assertions despite one failing, killing wayward tests, and the like.
